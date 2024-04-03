@@ -1,0 +1,27 @@
+.nav-bar{
+
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+li
+{
+    padding-right: 30px;}
+    UL{
+        list-style-type: none;
+    }
+    A{
+text-decoration: none;
+color:white;
+    }
+    body{padding-top: 2%;
+    background-color: blue;
+    }
+    li :hover{
+        background-color:white
+        padding: 5%;
+        border-radius:30%;
+    color:blue;
+    }
+
+    
